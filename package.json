@@ -1,0 +1,22 @@
+{
+  "name": "etherio-core",
+  "version": "0.0.1",
+  "description": "The core package for Etherio by Ethereal",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "nodemon test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etherio/etherio-core.git"
+  },
+  "keywords": [
+    "etherio-core"
+  ],
+  "author": "Shin Maung Maung <ethereal97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etherio/etherio-core/issues"
+  },
+  "homepage": "https://github.com/etherio/etherio-core#readme"
+}
